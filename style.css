@@ -79,16 +79,19 @@ p{
 
 .btn{
   display: inline-block;
-  background: #743838;
+  background-color: #743838;
   color: #fff;
   padding: 8px 30px;
   margin: 30px 0;
   border-radius: 30px;
   transition: background 0.5s;
+  
 }
 
 .btn:hover{
   background-color: rgb(0, 0, 0);
+  color: #fff;
+  border: none;
 }
 
 .header{
