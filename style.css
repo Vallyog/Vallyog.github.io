@@ -41,6 +41,11 @@ p{
   color: rgb(15, 15, 15);
 }
 
+.header1{
+  background: linear-gradient(#c5758265, rgba(0, 0, 0, 0.45));
+}
+}
+
 .container{
   max-width: 1300px;
   margin: auto;
